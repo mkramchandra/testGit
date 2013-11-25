@@ -1,0 +1,5 @@
+background: url("images/ui-bg_loop_25_000000_21x21.png") repeat scroll 50% 50% #000000;
+
+url("images/ui-bg_highlight-soft_35_222222_1x100.png") repeat-x scroll 50% 50% #222222;
+
+drak hive background images
